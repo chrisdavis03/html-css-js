@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+/* cssProgress is the container for the progress bar. */
+.cssProgress {
+  text-align: left;
+  /* color: #c9c1c1; */
+  width: 200px;
+  background-color: white;
+}
